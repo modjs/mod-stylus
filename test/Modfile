@@ -1,0 +1,14 @@
+// A sample Modfile
+// More info at https://github.com/modulejs/modjs/
+
+module.exports = {
+    plugins: {
+        stylus: "../index.js"
+    },
+    tasks: {
+        stylus: {
+            src: "test.styl",
+            dest: "test.css"
+        }
+    }
+};

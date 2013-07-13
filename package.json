@@ -1,0 +1,37 @@
+{
+    "name": "mod-stylus",
+    "description": "Compile stylus files to CSS",
+    "version": "0.1.0",
+    "homepage": "https://github.com/modjs/stylus",
+    "author": {
+        "name": "yuanyan",
+        "url": "https://github.com/yuanyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/modjs/stylus.git"
+    },
+    "bugs": {
+        "url": "https://github.com/modjs/stylus/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/modjs/stylus/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bin": "",
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "dependencies": {
+        "stylus": "~0.33.1",
+        "nib": "~0.9.2"
+    },
+    "devDependencies": {
+    },
+    "keywords": []
+}

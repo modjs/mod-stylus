@@ -1,4 +1,4 @@
-stylus
-======
+mod-stylus
+===
 
-compile stylus to css
+Compile stylus files to CSS
